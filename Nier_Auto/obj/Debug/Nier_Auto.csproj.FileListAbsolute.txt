@@ -1,0 +1,7 @@
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\bin\Debug\Nier_Auto.exe.config
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\bin\Debug\Nier_Auto.exe
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\bin\Debug\Nier_Auto.pdb
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\obj\Debug\Nier_Auto.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\obj\Debug\Nier_Auto.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\obj\Debug\Nier_Auto.exe
+C:\Users\Egor\Documents\Visual Studio 2017\Nier_Auto\Nier_Auto\obj\Debug\Nier_Auto.pdb
